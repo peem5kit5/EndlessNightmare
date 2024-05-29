@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+MyEndlessNightmare/Assets/Asphalt_materials/
+MyEndlessNightmare/Library/
+MyEndlessNightmare/Assets/TextMesh Pro/
+MyEndlessNightmare/Assets/Unity.VisualScripting.Generated/
+*.log
+*.cache
+*.json
+MyEndlessNightmare/Assets/SpaceZeta_StreetLamps/
+*.png
